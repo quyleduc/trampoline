@@ -1,0 +1,7 @@
+Create schedule table with preemptive task
+
+## List of task
+
+| Task                          | Priority       | Activation | period time                 |
+|-------------------------------|----------------|:----------:|-----------------------------|
+| OS_10ms_Task                  | 10             | 1          |                             |
